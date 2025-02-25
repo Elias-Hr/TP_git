@@ -21,7 +21,7 @@ Ce TP vous permettra de consolider vos compétences en gestion de versions et en
 
 ## 3. Énoncé du problème
 
-Vous devez travailler sur le dépôt existant `docker_tp` qui contient déjà une base de projet Docker. Vous devez le clonner en local et l'association à un nouveau répo distant.
+Vous devez travailler sur le dépôt existant `docker_tp` qui contient déjà une base de projet Docker. Vous devez le clonner en local et l'associer à un nouveau répo distant.
 Votre mission consiste à améliorer la gestion du code et l'organisation du projet en :
 
 - Configurant un fichier `.gitignore` optimisé,
