@@ -80,6 +80,8 @@ Votre mission consiste à améliorer la gestion du code et l'organisation du pro
 - **Vérification et listing :**
   - Utilisez `git tag -l` pour lister tous les tags et documentez dans le README quelle version correspond à quelles fonctionnalités.
 
+- **Récupérez l'image docker:**
+    - Récuprérer l'image builder deupuis github et executer la en local
 ---
 
 #### **Tâche 5 : Expérimentation avec des commandes Git avancées**
