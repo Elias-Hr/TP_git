@@ -110,10 +110,10 @@ Votre mission consiste à améliorer la gestion du code et l'organisation du pro
 1. **Quels sont les avantages et les risques d'utiliser `git rebase` par rapport à `git merge` dans un contexte collaboratif ?**  
    Expliquez les situations où l'un serait préféré à l'autre et comment minimiser les risques liés à un rebase mal utilisé.
 
-2. **Comment les sous-modules Git peuvent-ils améliorer la réutilisabilité du code, et quelles sont les bonnes pratiques pour les maintenir ?**  
-   Discutez de la gestion de versions entre projet parent et sous-module ainsi que des éventuels pièges à éviter.
+2. **Quel est l'intérêt d'utiliser les tags ?**
+   Expliquez en lien avec les requirements et la Semntic versionning method.
 
-3. **Décrivez l'impact d'une mauvaise configuration du fichier `.gitignore` sur l'historique du projet.**  
+4. **Décrivez l'impact d'une mauvaise configuration du fichier `.gitignore` sur l'historique du projet.**  
    Quelles conséquences peut-on observer et comment rectifier la situation une fois le problème identifié ?
 
 ---
